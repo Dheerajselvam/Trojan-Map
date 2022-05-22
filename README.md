@@ -1,25 +1,7 @@
-EE 538 Project
-
-Dheeraj Panneer Selvam & Rashaad Hussain
-
-Please open link to view report in proper format!!!
-
-[EE538_report.docx](https://github.com/ee538/final-project-Dheerajselvam/files/7674271/EE538_report.docx)
-
-Report
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-University of Southern California
-
-EE538 PROJECT
-
-On
-
 Trojan Map
 
-
-
 Dheeraj Panneer Selvam
-Rashaad Hussain
+
 Step 1 – Autocomplete
  
 
